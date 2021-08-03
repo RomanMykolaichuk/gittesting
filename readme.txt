@@ -7,3 +7,5 @@ Edit4
 
 
 Edit for merge conflict 5
+
+Edit after remote repo created
